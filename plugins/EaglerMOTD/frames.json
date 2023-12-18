@@ -1,44 +1,212 @@
 {
 	"frame1": { 
-		"icon": "server-animation.png",
+		"icon": "rick/astley1.png",
 		"icon_spriteX": 0,
 		"icon_spriteY": 0,
 		"online": "default",
 		"max": "default",
 		"players": "default",
-		"text0": "&7An Eaglercraft server",
-		"text1": "&0!!!!&8Running EaglerMOTD plugin"
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
 	},
 	"frame2": { 
-		"icon": "server-animation.png",
-		"icon_spriteX": 1,
+		"icon": "rick/astley2.png",
+		"icon_spriteX": 0,
 		"icon_spriteY": 0,
-		"icon_color": [ 1.0, 0.0, 0.0, 0.15 ],
 		"online": "default",
+		"max": "default",
 		"players": "default",
-		"text0": "&6&nAn&r &7Eaglercraft server",
-		"text1": "&0!!&8!&0!&8Running EaglerMOTD plugin"
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
 	},
 	"frame3": { 
-		"icon": "server-animation.png",
-		"icon_spriteX": 2,
+		"icon": "rick/astley3.png",
+		"icon_spriteX": 0,
 		"icon_spriteY": 0,
-		"icon_color": [ 1.0, 0.0, 0.0, 0.15 ],
-		"icon_tint": [ 0.8, 0.8, 1.0 ],
 		"online": "default",
+		"max": "default",
 		"players": "default",
-		"text0": "&7An &6&nEaglercraft&r &7server",
-		"text1": "&0!&8!!&0!&8Running EaglerMOTD plugin"
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
 	},
 	"frame4": { 
-		"icon": "server-animation.png",
-		"icon_spriteX": 3,
+		"icon": "rick/astley4.png",
+		"icon_spriteX": 0,
 		"icon_spriteY": 0,
-		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
-		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
 		"online": "default",
+		"max": "default",
 		"players": "default",
-		"text0": "&7An Eaglercraft &6&nserver&r",
-		"text1": "&8!!!&0!&8Running EaglerMOTD plugin"
-	}
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
+	},
+	"frame5": { 
+		"icon": "rick/astley5.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
+	},
+	"frame6": { 
+		"icon": "rick/astley6.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
+	},
+	"frame7": { 
+		"icon": "rick/astley7.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&7Minecraft 1.5.2",
+		"text1": "&8Running on an RPi"
+	},
+	"frame8": { 
+		"icon": "rick/astley8.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running &8on an RPi"
+	},
+	"frame9": { 
+		"icon": "rick/astley9.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running &8on an RPi"
+	},
+	"frame10": { 
+		"icon": "rick/astley10.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running &8on an RPi"
+	},
+	"frame11": { 
+		"icon": "rick/astley11.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running &8on an RPi"
+	},
+	"frame12": { 
+		"icon": "rick/astley12.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running on &8an RPi"
+	},
+	"frame13": { 
+		"icon": "rick/astley13.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running on &8an RPi"
+	},
+	"frame14": { 
+		"icon": "rick/astley14.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft &71.5.2",
+		"text1": "Running on &8an RPi"
+	},
+	"frame15": { 
+		"icon": "rick/astley15.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "Running on an &8RPi"
+	},
+	"frame16": { 
+		"icon": "rick/astley16.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "Running on an &8RPi"
+	},
+	"frame17": { 
+		"icon": "rick/astley17.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "Running on an &8RPi"
+	},
+	"frame18": { 
+		"icon": "rick/astley18.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "Running on an &8RPi"
+	},
+	"frame19": { 
+		"icon": "rick/astley19.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "&8Running on an &8RPi"
+	},
+	"frame20": { 
+		"icon": "rick/astley20.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "Running on an &8RPi"
+	},
+	"frame21": { 
+		"icon": "rick/astley21.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "Minecraft 1.5.2",
+		"text1": "Running on an &8RPi"
+	},
 }
